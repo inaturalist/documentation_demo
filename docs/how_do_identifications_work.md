@@ -1,3 +1,5 @@
+[Table of Contents](table_of_contents.md) > [How do Identifications Work?](how_do_identifications_work.md) 
+
 # How do Identifications Work?
 
 On [iNaturalist](https://www.inaturalist.org), the community works together to identify observations. We have tools that offer suggestions (such as the computer vision model). But in all cases users add identifications to observations.
